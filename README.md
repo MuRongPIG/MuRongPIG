@@ -15,7 +15,7 @@
 
  - **Crosst.Chat** : a simple and powerful chatroom.
  - **bo_od** : a powerful bot frame for crosst.chat (developing)
- - **Proxy-Master** : a auro scraper for proxies.
+ - **Proxy-Master** : a auto scraper for proxies.
 
  ### 🎉: Be my friend!
 
