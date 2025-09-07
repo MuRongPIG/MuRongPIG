@@ -2,10 +2,10 @@
 
 ### 🙃: MuRongPIG is here! XD
 
-- 📘: **student in high school**
+- 📘: **freshman in TJU (Tianjin University/Peiyang University)**
 - 💻: **Python**
 - 📺: **Anime lover**
-- 👧: **Amano Hina**
+- 👧: **FireFly (in Honkai:Star Rail)**
 
 ---
 
@@ -15,7 +15,7 @@
 
  - **Crosst.Chat** : a simple and powerful chatroom.
  - **bo_od** : a powerful bot frame for crosst.chat (developing)
- - **Proxy-Master** : a auto scraper for proxies.
+ - **Proxy-Master** : a auto scraper for proxies. (Temporarily unavailable)
 
  ### 🎉: Be my friend!
 
@@ -23,4 +23,4 @@
  - :game_die: I love Minecraft. Contact me to let us be friends or so on;
 
 
- -  **:e-mail: Mail** : murongpig@gmail.com
+ -  **:e-mail: Mail** : ablaze@mrpig.eu.org
