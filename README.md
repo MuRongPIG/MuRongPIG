@@ -3,7 +3,7 @@
 ### 🙃: MuRongPIG is here! XD
 
 - 📘: **freshman in TJU (Tianjin University/Peiyang University)**
-- 💻: **Python**
+- 💻: **Python, C++, Dart**
 - 📺: **Anime lover**
 - 👧: **FireFly (in Honkai:Star Rail)**
 
@@ -20,7 +20,7 @@
  ### 🎉: Be my friend!
 
  - :seedling: I am currently learning Python and C++, and have interests in Javascript/node.js;
- - :game_die: I love Minecraft. Contact me to let us be friends or so on;
+ - :game_die: I love **Minecraft and Honkai: Star Rail**. Contact me to let us be friends or so on;
 
 
  -  **:e-mail: Mail** : ablaze@mrpig.eu.org
